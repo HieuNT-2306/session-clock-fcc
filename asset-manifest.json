@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/session-clock-fcc/static/css/main.7be4e78c.css",
+    "main.js": "/session-clock-fcc/static/js/main.5f1694b1.js",
+    "static/js/787.8af8807d.chunk.js": "/session-clock-fcc/static/js/787.8af8807d.chunk.js",
+    "static/media/mixkit-digital-clock-digital-alarm-buzzer-992.wav": "/session-clock-fcc/static/media/mixkit-digital-clock-digital-alarm-buzzer-992.7ba9fbe41af175d976bf.wav",
+    "static/media/Digital-7MonoItalic.woff": "/session-clock-fcc/static/media/Digital-7MonoItalic.10caa020ad81c34a5138.woff",
+    "static/media/Digital-7MonoItalic.woff2": "/session-clock-fcc/static/media/Digital-7MonoItalic.ef5bf566ac4466e74a4a.woff2",
+    "index.html": "/session-clock-fcc/index.html",
+    "main.7be4e78c.css.map": "/session-clock-fcc/static/css/main.7be4e78c.css.map",
+    "main.5f1694b1.js.map": "/session-clock-fcc/static/js/main.5f1694b1.js.map",
+    "787.8af8807d.chunk.js.map": "/session-clock-fcc/static/js/787.8af8807d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7be4e78c.css",
+    "static/js/main.5f1694b1.js"
+  ]
+}
